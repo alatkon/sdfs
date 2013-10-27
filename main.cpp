@@ -24,7 +24,6 @@ int my_sort (long long int array[],
 
 int main()
 {
-
     long long int size;
     
     // Read the number of players
